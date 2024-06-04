@@ -61,7 +61,7 @@ span{
     left: -1000vh;
     transition: 0.4s;
     position: absolute;
-    bottom: 10vh;
+    top: 10vh;
     border: solid 0.1rem hotpink;
     backdrop-filter: blur(1rem);
     color: rgb(255, 245, 255);
